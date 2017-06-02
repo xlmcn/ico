@@ -1,1 +1,1 @@
-# ico
+# StellarICO is a ICO platform
